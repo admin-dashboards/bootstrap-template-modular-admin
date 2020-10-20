@@ -1,4 +1,4 @@
-# ModularAdmin: Free Bootstrap 4 Dashboard Theme <br> HTML version
+# [Modular Admin](https://appseed.us/admin-dashboards/flask-dashboard-modular-admin) Free Bootstrap 4 template
 
 [![Backers on Open Collective](https://opencollective.com/modular-admin/backers/badge.svg)](#backers) [![Sponsors on Open Collective](https://opencollective.com/modular-admin/sponsors/badge.svg)](#sponsors) [![Join the chat at https://gitter.im/modularcode/modular-admin](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/modularcode/modular-admin?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
@@ -317,3 +317,6 @@ Become a sponsor and get your logo on our README on Github with a link to your s
 * Gevorg Harutyunyan | [LinkedIn](https://www.linkedin.com/profile/view?id=AAMAAA7ne4gBF-IVNsoiBaeOeDTd5YGSTVN2eBs) |  [Facebook](https://www.facebook.com/madextreme) | [Twitter](https://twitter.com/mad4extreme) | gevharut[at]gmail.com
 * Aram Manukyan | [LinkedIn](https://www.linkedin.com/profile/view?id=AAkAABCehqwBm7aTR7IohpOidW1sVIHMo33U46o)
 * David Tigranyan | [LinkedIn](https://www.linkedin.com/profile/view?id=AAkAAAk1QJIB86I-V65l3qtgpTvfrMozBNc4p_8)
+
+---
+[Modular Admin](https://appseed.us/admin-dashboards/flask-dashboard-modular-admin) Free Bootstrap 4 template - provided by Modular Code
